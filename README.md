@@ -1,6 +1,5 @@
 # Separator Studio
-
-![GitHub manifest version](https://img.shields.io/github/manifest-json/v/bigelephant67/custom-separator-studio?color=blue&style=flat-square)
+![GitHub release (latest by asset)](https://img.shields.io/github/v/release/bigelephant67/custom-separator-studio?color=blue&style=flat-square)
 ![Obsidian Minimum Version](https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square)
 ![License](https://img.shields.io/github/license/bigelephant67/custom-separator-studio?style=flat-square)
 ![GitHub Release Date](https://img.shields.io/github/release-date/bigelephant67/custom-separator-studio?style=flat-square)
