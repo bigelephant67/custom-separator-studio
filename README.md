@@ -1,35 +1,45 @@
 # Separator Studio
 
-![GitHub Release Date](https://img.shields.io/github/release-date/bigelephant67/custom-separator-studio?style=flat-square)
-![GitHub manifest version](https://img.shields.io/github/manifest.json/v/bigelephant67/custom-separator-studio?style=flat-square)
+![GitHub manifest version](https://img.shields.io/github/manifest-json/v/bigelephant67/custom-separator-studio?color=blue&style=flat-square)
 ![Obsidian Minimum Version](https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square)
+![License](https://img.shields.io/github/license/bigelephant67/custom-separator-studio?style=flat-square)
 
-**Separator Studio** is a powerful Obsidian plugin that transforms standard horizontal rules (`---` or `<hr>`) into 32 high-quality, customizable graphical separators. Take control of your note aesthetics with real-time previews, custom gradients, and intelligent progress tracking.
+**Separator Studio** is an Obsidian plugin that allows you to replace standard horizontal rules (`---` or `<hr>`) with 32 custom-designed graphical separators. Personalize your workspace with real-time previews and granular control over every divider.
 
-## 🚀 Key Features
+## ✨ Features
 
-* **32 Custom Styles**: Choose from a massive library of 32 distinct separators derived from professional prototypes.
-* **Dynamic Progress Bars**: Automatically calculates the percentage of your progress through a note based on the total number of separators.
-* **Real-time Customization**: 
-    * Per-separator color and dual-color gradient support.
-    * Adjustable thickness/height sliders.
-    * Custom text input for supported styles.
-* **Live Preview**: Master preview at the top of settings and mini-previews within each collapsible drawer.
-* **Precision Rendering**: Uses a debounced `MutationObserver` to ensure accurate separator counts without performance lag.
+* **32 Unique Styles**: A diverse library of separators ranging from minimal lines to decorative patterns.
+* **Per-Separator Controls**:
+    * **Color & Gradients**: Support for solid colors and dual-color gradients.
+    * **Thickness**: Precision sliders to adjust the height of each divider.
+    * **Custom Text**: Add labels or symbols directly into supported separator styles.
+* **Settings Dashboard**: 
+    * Collapsible drawers for a clean UI.
+    * **Master Live Preview**: See global changes at the top of the settings tab.
+    * **Mini Previews**: Instant visual feedback inside each separator's settings drawer.
+* **Non-Destructive**: Simply replaces the visual rendering of standard markdown horizontal rules in Reading View.
 
-## 🛠 Installation (Beta)
+## 🚀 Installation
 
-As this plugin is not yet published on the official Obsidian Community store, you can install it manually or via the **[Github](https://github.com/bigelephant67/custom-separator-studio)** plugin.
+1. Download the latest `main.js`, `manifest.json`, and `styles.css` from the [GitHub repository](https://github.com/bigelephant67/custom-separator-studio).
+2. Create a folder named `custom-separator-studio` inside your vault's `.obsidian/plugins/` directory.
+3. Move the downloaded files into that folder.
+4. Reload Obsidian and enable the plugin.
+
+## 🛠 Usage
+
+1. Open **Settings** > **Separator Studio**.
+2. Configure your preferred style, colors, and thickness.
+3. Click the **Apply** button to update the styling.
+4. Use `---` in any note to see your custom separator in **Reading View**.
 
 ## 📜 Changelog
 
 ### v1.0.0 — Initial Release
-* Full build with all 32 separators and core settings infrastructure.
-
-## 📄 Manifest Details
-* **ID**: `custom-separator-studio`
-* **Author**: bigelephant67
-* **Minimum App Version**: 0.15.0
+* Built the full plugin architecture from scratch.
+* Implementation of all 32 prototype separators.
+* Full settings suite with collapsible drawers, live previews, and color/gradient/thickness controls.
 
 ---
-[View on GitHub](https://github.com/bigelephant67/custom-separator-studio)
+**Developer:** [bigelephant67](https://github.com/bigelephant67)  
+**ID:** `custom-separator-studio`
