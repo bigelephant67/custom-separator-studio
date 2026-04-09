@@ -1,7 +1,7 @@
 # Separator Studio
 ![GitHub release (latest by asset)](https://img.shields.io/github/v/release/bigelephant67/custom-separator-studio?color=blue&style=flat-square)
 ![Obsidian Minimum Version](https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square)
-![License](https://img.shields.io/github/license/bigelephant67/custom-separator-studio?style=flat-square)
+![License](https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat-square)
 ![GitHub Release Date](https://img.shields.io/github/release-date/bigelephant67/custom-separator-studio?style=flat-square)
 
 **Separator Studio** is an Obsidian plugin that allows you to replace standard horizontal rules (`---` or `<hr>`) with 32 custom-designed graphical separators. Personalize your workspace with real-time previews and granular control over every divider.
