@@ -2,8 +2,6 @@
 Made by: https://github.com/bigelephant67
 GitHub repo: https://github.com/bigelephant67/custom-separator-studio
 Date: 2026-04-10
-cssclasses:
-  - r-Y
 ---
 # 🎨 Separator Studio — Complete 1:1 Tutorial
 
@@ -197,4 +195,5 @@ Follow this exact sequence to verify everything is working:
 | main.js | Logic for rendering and settings | ❌ No |
 | manifest.json | Versioning and ID info | ❌ No |
 | styles.css | The visual design for all 32 styles | ✅ Optional |
+
 *Plugin version: 1.3.0 — Compatible with Obsidian 0.15.0 and above*
